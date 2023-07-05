@@ -14,5 +14,6 @@ Has Memory
 
 AI Equivalent to GPT-3.5
 
+# Credits
 
-
+Most Of The code From <a href="https://github.com/ramonvc/freegpt-webui/tree/main">FreeGPT</a>
