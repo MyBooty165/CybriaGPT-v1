@@ -8,7 +8,7 @@ Can Browse the Web
 
 Has no Restrictions
 
-Can Save Conversations
+Self Learning AI
 
 Has Memory
 
