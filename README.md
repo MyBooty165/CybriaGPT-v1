@@ -12,7 +12,7 @@ Can Save Conversations
 
 Has Memory
 
-AI Equivalent to GPT-3.5
+AI Equivalent to GPT-4
 
 # Credits
 
